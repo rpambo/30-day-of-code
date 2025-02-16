@@ -25,6 +25,7 @@ This repository contains 30 days of coding challenges in the **C++ language**
 	
 ## 30 Days of code
 [Day 0 | Hello world](https://github.com/rpambo/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2000)
+
 [Day 1 | Data structure](https://github.com/rpambo/42-piscine/tree/main/piscine/C%20Piscine%20Shell%2000)
 
 </div>
