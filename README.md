@@ -28,6 +28,8 @@ This repository contains 30 days of coding challenges in the **C++ language**
 
 [Day 1 | Data Type](https://github.com/rpambo/30-days-of-code/tree/main/30-days-of-code/day-1)
 
+[Day 2 | Data Type](https://github.com/rpambo/30-days-of-code/tree/main/30-days-of-code/day-1)
+
 </div>
 
 ## CONTRIBUTING
