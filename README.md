@@ -32,9 +32,9 @@ This repository contains 30 days of coding challenges in the **C++ language**
 
 [Day 3| conditional-statements](https://github.com/rpambo/30-days-of-code/tree/main/30-days-of-code/day-3)
 
-[Day 4| conditional-statements](https://github.com/rpambo/30-days-of-code/tree/main/30-days-of-code/day-3)
+[Day 4| class-vs-instance](https://github.com/rpambo/30-days-of-code/tree/main/30-days-of-code/day-4)
 
-[Day 5| conditional-statements](https://github.com/rpambo/30-days-of-code/tree/main/30-days-of-code/day-3)
+[Day 5| loop](https://github.com/rpambo/30-days-of-code/tree/main/30-days-of-code/day-5)
 
 </div>
 
